@@ -1,0 +1,291 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+    .sr .sidebar .head a {
+        margin-top: -15px;
+        margin-right: -10px;
+    }
+    .price h6 {
+        margin-left: 0px;
+    }
+
+    .bod .\31 st p {
+        font-size: 19px;
+    }
+    .bod .\32 nd p {
+        font-size: 19px;
+    }
+    .row.ra .box.o input {
+        margin-left: 25px;
+    }
+    .box.o i.fa-solid.fa-location-dot {
+        left: 60px;
+        top: 20px;
+        font-size: 30px;
+    }
+    i.fa-solid.fa-arrow-right-arrow-left {
+        left: 342px;
+    }
+    .row.ra .box i {
+
+        left: 40px;
+        top: 20px;
+        font-size: 30px;
+    }
+    .row.rb {
+        margin-left: 105px;
+    }
+    .header-area .br i {
+        margin-right: -15px;
+    }
+    .main .res p {
+        font-size: 22px;
+    }
+    .caution p {
+        font-size: 20px;
+    }
+    .btn {
+        font-size: 18px;
+    }
+    .row.rc button {
+        font-size: 25px;
+    }
+    .header-area .lang {
+        margin-left: -110px;
+        font-size: 18px;
+    }
+    .header-area .br i {
+        float: left;
+        margin-left: -50px;
+        margin-top: -25px;
+        font-size: 23px;
+    }
+    .header-area .icon .i1 i {
+        margin-left: -70px;
+        font-size: 25px;
+    }
+    .header-area .icon .i2 img {
+        border-radius: 20px;
+        float: left;
+        width: 75%;
+        margin-left: -10px;
+    }
+    .tex1 button {
+        padding: 5px 25px;
+    }
+    .det .up li {
+        display: block;
+        margin-bottom: 20px;
+    }
+    .up ul::after {
+        height: 107%;
+        width: 2px;
+        left: 155px;
+        bottom: -5px;
+    }
+    .up.up2 ul {
+        float: right;
+        margin-right: 140px;
+        margin-top: -215px;
+    }
+    .row.det::before {
+        top: -8px;
+    }
+    .row.det .price {
+        margin-left: 310px;
+        display: inline-grid;
+        margin-top: -325px;
+    }
+    .em.emp {
+        float: left;
+        margin-left: -410px;
+        margin-top: 200px;
+    }
+    .tk {
+        margin-left: 500px;
+        margin-top: -350px;
+    }
+    .em.em2 {
+        margin-left: -15px;
+        margin-top: -26px;
+    }
+    .rslt .tk {
+        display: inline-block;
+    }
+    .lb {
+        margin-top: 20px;
+    }
+
+
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+    .header-area .br i {
+        border-radius: 20px;
+        float: left;
+        margin-left: -55px;
+        font-size: 30px;
+        margin-top: -35px;
+    }
+    .en {
+        margin-left: -115px;
+        font-size: 23px;
+    }
+    .header-area .icon .i1 i {
+        border-radius: 20px;
+        float: left;
+        margin-left: -60px;
+        font-size: 30px;
+    }
+    .header-area .icon .i2 img {
+        border-radius: 30px;
+        float: right;
+        width: 130%;
+    }
+    .header-area .lang ul {
+        left: -115px;
+        font-size: 20px;
+    }
+    .wrapper .bod .\31 st .input p {
+        font-size: 20px;
+    }
+    .wrapper .bod .\31 st input {
+        margin-top: 12px;
+    }
+    .wrapper .bod .\32 nd {
+        font-size: 22px;
+    }
+    .row.ra .box {
+        width: 35%;
+    }
+    .row.ra .box input {
+        padding-left: 35px;
+        padding-right: 10px;
+    }
+    .box.o i.fa-solid.fa-location-dot {
+        left: 50px;
+        top: 28px;
+    }
+    .box.t {
+        margin-left: 65px;
+    }
+    .row.ra .box.o input {
+        margin-left: 20px;
+    }
+    .row.ra .box i {
+        left: 35px;
+        top: 27px;
+    }
+    i.fa-solid.fa-arrow-right-arrow-left {
+        left: 220px;
+    }
+    .row.rb {
+        margin-left: 15px;
+    }
+    .row.rb .box {
+        margin-left: 30px;
+    }
+    .row.rc button {
+        font-size: 30px;
+    }
+    .sr .sidebar .head a {
+        margin-top: 10px;
+    }
+    .price h6 {
+        margin-left: 0;
+    }
+    .price {
+        margin-left: -10px;
+    }
+    .sr .sidebar .price::after {
+        width: 85px;
+        left: 0px;
+    }
+    .providers {
+        margin-left: -10px;
+    }
+    .main .res p {
+        font-size: 22px;
+    }
+    .caution {
+        margin-left: 10px;
+    }
+    i.fa-solid.fa-triangle-exclamation {
+        font-size: 25px;
+    }
+    .caution p {
+        font-size: 20px;
+    }
+    .btn button {
+        font-size: 18px;
+    }
+    .wrapper .sidebar .sidebar1::after {
+        height: 390px;
+    }
+    .wrapper .sidebar1 a.op1::after {
+        height: 50px;
+    }
+    .lb button {
+        padding: 5px 10px;
+        margin-left: 5px;
+    }
+    .tk {
+        margin-left: 420px;
+        margin-top: -295px;
+    }
+    .row.det {
+        margin-left: -30px;
+        margin-top: 0;
+        padding-bottom: 100px;
+    }
+    .row.det .price {
+        margin-left: 0;
+    }
+    .row.det .price h6 {
+        margin-left: 30px;
+    }
+    .row.det::before {
+        width: 600px;
+        height: 1px;
+        right: 0;
+    }
+    .dtl {
+        margin-bottom: 90px;
+    }
+    .em.em2 {
+        margin-left: -15px;
+        margin-top: -23px;
+    }
+    .rslt .lb {
+        padding-top: 100px;
+    }
+
+
+
+
+
+
+
+}
+
+ 
+/* Extra small Device. */
+@media (max-width: 767px) {
+
+ 
+}
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+}
