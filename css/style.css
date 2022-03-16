@@ -134,6 +134,10 @@
     left: 0;
     top: 5px;
 }
+.sidebar .price h6 {
+    display: inline-block;
+    margin-left: 0px;
+}
 .wrapper .sidebar a:hover{
     background: #F6FFFE;
     border-radius: 10px;
@@ -314,6 +318,7 @@ i.fa-solid.fa-arrow-right-arrow-left {
 .sr .sidebar .price {
     margin-top: 50px;
     position: relative;
+    margin-left: 0px;
 }
 .sr .sidebar .price::after {
     position: absolute;

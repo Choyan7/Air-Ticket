@@ -1,6 +1,12 @@
 /* XL Device :1200px. */
-@media (min-width: 1200px) and (max-width: 1500px) {
+@media (min-width: 1500px) and (max-width: 2000px) {
 
+    .row.ra .box.t {
+        margin-left: -75px;
+    }
+    .row.rb .box {
+        height: 105px;
+    }
 
 }
 
